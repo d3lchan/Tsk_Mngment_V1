@@ -1,0 +1,29 @@
+{
+  "name": "project_v1",
+  "version": "1.0.0",
+  "description": "Task Managment System",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3lchan/Tsk_Mngment_V1.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "d3lchan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3lchan/Tsk_Mngment_V1/issues"
+  },
+  "homepage": "https://github.com/d3lchan/Tsk_Mngment_V1#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.1",
+    "mongoose": "^7.3.4"
+  }
+}
